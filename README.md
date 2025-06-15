@@ -18,6 +18,13 @@
 
 ---
 
+## 📸 Screenshots
+
+![TimeAlign Screenshot - Launch](screenshots/TimeAlign_01.png)
+![TimeAlign Screenshot - Converted Times](screenshots/TimeAlign_02.png)
+
+---
+
 ## 🚀 Installation (Development Mode)
 
 To load the extension manually in Chrome:
@@ -64,3 +71,24 @@ Contributions are welcome! Please open an issue or submit a pull request if you'
 
 MIT License
 © 2025 Rodney Gauna
+
+---
+
+## 📧 Contact
+
+For questions, feedback, or feature requests, please open an issue on GitHub or contact me at rodneygauna@gmail.com
+
+---
+
+## Acknowledgments
+
+Thanks to the open-source community for providing the tools and libraries that made this extension possible. Special thanks to the developers of
+
+- [Chrome Extensions](https://developer.chrome.com/docs/extensions/mv3/getstarted/) for their documentation and support.
+- [Modernize CSS](https://modernizecss.com/) for the CSS framework used in this project.
+
+## Check out my other projects:
+
+- [Rodney Gauna's GitHub](https://github.com/rodneygauna) for more open-source projects and contributions.
+- [Rodney.Codes](http://rodney.codes) for my personal website.
+- [Rodney Gauna on LinkedIn](https://www.linkedin.com/in/rodneygauna) to connect professionally.
