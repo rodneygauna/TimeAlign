@@ -76,7 +76,7 @@ MIT License
 
 ## 📧 Contact
 
-For questions, feedback, or feature requests, please open an issue on GitHub or contact me at rodneygauna@gmail.com
+For questions, feedback, or feature requests, please open an issue on GitHub or contact me at <rodneygauna@gmail.com>
 
 ---
 
@@ -86,8 +86,9 @@ Thanks to the open-source community for providing the tools and libraries that m
 
 - [Chrome Extensions](https://developer.chrome.com/docs/extensions/mv3/getstarted/) for their documentation and support.
 - [Modernize CSS](https://modernizecss.com/) for the CSS framework used in this project.
+- [Zesty UX CSS](http://zestyux.com/) for the inspiration behind the clean design.
 
-## Check out my other projects:
+## Check out my other projects
 
 - [Rodney Gauna's GitHub](https://github.com/rodneygauna) for more open-source projects and contributions.
 - [Rodney.Codes](http://rodney.codes) for my personal website.
