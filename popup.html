@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="UTF-8" />
+    <title>TimeAlign</title>
+    <link rel="stylesheet" href="normalize.css" />
+    <link rel="stylesheet" href="zestyux.css" />
+    <link rel="stylesheet" href="style.css" />
+  </head>
+  <body>
+    <div class="container">
+      <!-- Icon and title -->
+      <div class="align-center-image-text">
+        <img
+          src="icons/TimeAlign_96x96.png"
+          alt="time align logo"
+          class="rounded"
+          style="height: 60px"
+        />
+        <h2 style="margin-left: 8px">TimeAlign</h2>
+      </div>
+      <!-- Date time input and conver button -->
+      <div class="row">
+        <div class="two-third column">
+          <input type="datetime-local" id="dateTimeInput" class="full-width" />
+        </div>
+        <div class="one-third column">
+          <button id="convertBtn" class="button-primary">Convert</button>
+        </div>
+      </div>
+      <!-- Output display, copy buttons, and reset button-->
+      <div>
+        <table>
+          <tbody id="output"></tbody>
+        </table>
+      </div>
+      <!-- GitHub link-->
+      <a
+        href="https://github.com/rodneygauna/TimeAlign"
+        target="_blank"
+        class="button"
+        >Check out the project on GitHub</a
+      >
+    </div>
+    <!-- Javascript -->
+    <script src="popup.js"></script>
+  </body>
+</html>
