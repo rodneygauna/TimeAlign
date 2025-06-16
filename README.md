@@ -4,6 +4,12 @@
 
 ---
 
+## 📅 Chrome Web Extension
+
+The extension has been submitted to the Chrome team and is currently Pending Review. Once the submission is approved, I will provide the link to the extension here.
+
+---
+
 ## 🕒 Features
 
 - Enter any date and time using your local timezone
@@ -13,7 +19,7 @@
   - Mountain Time (MT)
   - Central Time (CT)
   - Eastern Time (ET)
-- Copy individual timestamps or the full list to clipboard
+- Copy individual timestamps or the complete list to the clipboard
 - Clean and minimal user interface
 
 ---
@@ -59,11 +65,12 @@ Working with teammates in different time zones? Instead of guessing or asking "W
 
 ## 🛠️ Future Ideas
 
+- Support for the remaining US time zones: Hawaii and Alaska
 - Support for international time zones
 - Output formatting for Slack, Markdown, or Google Calendar
 - Dark mode support
 
-Contributions are welcome! Please open an issue or submit a pull request if you'd like to help improve this extension.
+Contributions are welcome! If you'd like to improve this extension, please open an issue or submit a pull request.
 
 ---
 
@@ -80,15 +87,15 @@ For questions, feedback, or feature requests, please open an issue on GitHub or 
 
 ---
 
-## Acknowledgments
+## 🥇 Acknowledgments
 
 Thanks to the open-source community for providing the tools and libraries that made this extension possible. Special thanks to the developers of
 
 - [Chrome Extensions](https://developer.chrome.com/docs/extensions/mv3/getstarted/) for their documentation and support.
-- [Modernize CSS](https://modernizecss.com/) for the CSS framework used in this project.
+- [Modernize CSS](https://necolas.github.io/normalize.css/) for the CSS framework used in this project.
 - [Zesty UX CSS](http://zestyux.com/) for the inspiration behind the clean design.
 
-## Check out my other projects
+## ☑️ Check out my other projects
 
 - [Rodney Gauna's GitHub](https://github.com/rodneygauna) for more open-source projects and contributions.
 - [Rodney.Codes](http://rodney.codes) for my personal website.
