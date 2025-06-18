@@ -6,7 +6,8 @@
 
 ## 📅 Chrome Web Extension
 
-The extension has been submitted to the Chrome team and is currently Pending Review. Once the submission is approved, I will provide the link to the extension here.
+The extension can be added via the Chrome Web Store page:
+[TimeAlign](https://chromewebstore.google.com/detail/kbancfglihklfkabjcenhhiocpaemkjo)
 
 ---
 
